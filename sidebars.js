@@ -126,6 +126,7 @@ const sidebars = {
             'guide/Settings/Basic_Settings',
             'guide/Settings/Gesture_by_Camera',
             'guide/Settings/Ensemble_Setting',
+            'guide/Settings/USB_Keyboard',
             'guide/Settings/Initialization',
             'guide/Settings/About_this_app',
             'guide/Settings/PrivacyPolicy',
